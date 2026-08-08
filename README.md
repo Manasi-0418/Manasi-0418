@@ -96,15 +96,13 @@
 
 ## 📊 GitHub Statistics
 
+## 📊 GitHub Statistics
+
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Manasi-0418&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img height="165" src="./profile/stats.svg" alt="GitHub Stats" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manasi-0418&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=Manasi-0418&theme=tokyonight&hide_border=true" />
+<img height="165" src="./profile/top-langs.svg" alt="Top Languages" />
 
 </div>
 
