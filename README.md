@@ -94,7 +94,7 @@
 
 ---
 
-## 📊 GitHub Statistics
+
 
 ## 📊 GitHub Statistics
 
@@ -103,16 +103,6 @@
 <img height="165" src="./profile/stats.svg" alt="GitHub Stats" />
 
 <img height="165" src="./profile/top-langs.svg" alt="Top Languages" />
-
-</div>
-
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Manasi-0418/Manasi-0418/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
 
 </div>
 
