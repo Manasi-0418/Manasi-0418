@@ -1,128 +1,100 @@
 <div align="center">
 
-# 👋 Hi, I'm Manasi Shewale
+👋 Hi, I'm Manasi Shewale
 
-### 🛡️ Cybersecurity | ☁️ Cloud Security | 🔎 VAPT
+🛡️ Cybersecurity | ☁️ Cloud Security | 🔎 VAPT
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=2800&pause=900&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast;Cloud+Security+Learner;Ethical+Hacking+%7C+VAPT+%7C+Digital+Forensics;Learning+%7C+Building+%7C+Documenting" />
+  <a href="https://github.com/Manasi-0418">
+    <img src="https://img.shields.io/github/followers/Manasi-0418?label=Followers&style=for-the-badge&logo=github">
+  </a>
+  <a href="https://github.com/Manasi-0418?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-6-181717?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://github.com/Manasi-0418/cyber-writeups">
+    <img src="https://img.shields.io/badge/Cybersecurity-Writeups-00D9FF?style=for-the-badge&logo=hackthebox">
+  </a>
 </p>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast;Cloud+Security+Learner;VAPT+%7C+Ethical+Hacking+%7C+Digital+Forensics;Building+%26+Documenting+Security+Projects" alt="Typing SVG" />
 
 </div>
 
----
+🧠 About Me
 
-## 🧠 About Me
+🎓 M.Sc. Cyber Security Student🎓 B.Sc. Cyber & Digital Science — CGPA 9.36☁️ Working toward a Cloud Security Analyst role🔐 Hands-on interest in VAPT, ethical hacking, digital forensics and security operations🧪 Practicing through Hack The Box, CTFs and cybersecurity labs📚 I document what I learn through technical writeups and projects.
 
-🎓 **M.Sc. Cyber Security Student — Indira University, Pune**  
-🎓 **B.Sc. Cyber & Digital Science — CGPA 9.36**  
-🔐 Interested in **Cybersecurity, Cloud Security, VAPT & Digital Forensics**  
-☁️ Building toward a career in **Cloud Security / Security Engineering**  
-🧪 Hands-on practice through **HTB, CTFs, security labs and projects**  
-📚 I learn by **building, testing and documenting**.
+🛡️ Security Arsenal
 
----
-
-## 🛠️ Tech Arsenal
-
-### 🔐 Security
-
-<p>
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Nessus-00A88F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,vscode,mysql,html,css,js" />
 </p>
 
-### 💻 Development & Systems
+<p align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,c,linux,bash,git,github,vscode,mysql,html,css,js" />
+
+
 </p>
 
----
+🚀 Featured Work
 
-## 🚀 Featured Security Work
+Project
 
-### 🔎 VAPT — DVWA
-**Vulnerability Assessment & Penetration Testing**
+Focus
 
-`Kali Linux` `Nmap` `Burp Suite` `DVWA` `Apache` `MySQL`
+🔎 VAPT Project
 
-→ [View Project](https://github.com/Manasi-0418/VAPT-Project)
+Vulnerability Assessment & Penetration Testing using DVWA
 
-### 🕵️ Digital Forensics Toolkit
-**Practical digital investigation and evidence-analysis work**
+🕵️ Digital Forensics Toolkit
 
-`Autopsy` `FTK Imager` `Recuva` `OSForensics`
+Digital forensics using Autopsy & FTK Imager
 
-→ [View Project](https://github.com/Manasi-0418/Digital-Forensics-Toolkit)
+🎣 Phishing Attack Simulation & Detection
 
-### 🎣 Phishing Attack Simulation & Detection
-**Security awareness + phishing detection**
+Phishing simulation and detection
 
-`Python` `PHP` `HTML` `JavaScript`
+📝 Cyber Writeups
 
-→ [View Project](https://github.com/Manasi-0418/Phishing-Attack-Simulation-and-Detection)
+Ethical hacking labs, HTB writeups & CTF practice
 
----
+🧪 Cybersecurity Practice
 
-## 🧪 Cybersecurity Practice
+Hack The Box
 
-### Hack The Box
+Tier 0 completed:
 
-**Tier 0 completed**
+Meow • Fawn • Dancing • Sequel • Redeemer
 
-`Meow` · `Fawn` · `Dancing` · `Sequel` · `Redeemer`
+🔗 View my HTB profile
 
-📂 [My HTB Writeups](https://github.com/Manasi-0418/cyber-writeups/tree/main/htb-writeups)
+Writeups
 
-### Security Labs
+📂 HTB Writeups
 
-📂 [Ethical Hacking Fundamentals](https://github.com/Manasi-0418/cyber-writeups/tree/main/labs/ethical-hacking-fundamentals)
+📂 Ethical Hacking Fundamentals
 
-📂 [CTF Writeups](https://github.com/Manasi-0418/cyber-writeups/tree/main/ctf-writeups)
+📂 CTF Writeups
 
-> I document the approach, findings and lessons from my hands-on security practice.
+📜 Certifications & Training
 
----
+🏅 ISAC Certified Cyber Crime Intervention Officer (CCIO)
 
-## ☁️ Current Focus
+🛡️ Cybercrime First Responder — CopConnect / ISAC Foundation
 
-```text
-Cloud Security
-     │
-     ├── IAM & Access Control
-     ├── Cloud Security Fundamentals
-     ├── Security Monitoring
-     ├── Risk & Compliance
-     └── Secure Cloud Architecture
-```
+💼 Tata Cybersecurity Analyst Job Simulation — Forage
 
-Alongside cloud security, I'm strengthening my foundations in **Linux, networking, web security, Python and security operations**.
+💻 Datacom Cybersecurity Job Simulation — Forage
 
----
+🔐 Cybersecurity / Cyber Ambassador training
 
-## 🏆 Certifications & Training
-
-- 🛡️ **ISAC Certified Cyber Crime Intervention Officer (CCIO)**
-- 🚨 **Cybercrime First Responder — CopConnect / ISAC Foundation**
-- 💼 **Tata Cybersecurity Analyst Job Simulation — Forage**
-- 💻 **Datacom Cybersecurity Job Simulation — Forage**
-- 🔐 Cybersecurity / Cyber Ambassador Training
-
----
-
-## 📊 GitHub
+📊 GitHub Statistics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Manasi-0418&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Manasi-0418&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manasi-0418&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manasi-0418&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br><br>
 
@@ -130,34 +102,38 @@ Alongside cloud security, I'm strengthening my foundations in **Linux, networkin
 
 </div>
 
----
-
-## 🌐 Connect With Me
+🐍 Contribution Graph
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/manasi-shewale-863251296">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Manasi-0418">
-<img src="https://img.shields.io/badge/GitHub-Manasi--0418-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://profile.hackthebox.com/profile/019ea70e-c055-7359-bf7b-5580f7617ed0">
-<img src="https://img.shields.io/badge/Hack_The_Box-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/>
-</a>
-
-<a href="https://manasi-0418.github.io/manasi-portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
+<img src="https://raw.githubusercontent.com/Manasi-0418/Manasi-0418/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
 
 </div>
 
----
+🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/manasi-shewale-863251296">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://profile.hackthebox.com/profile/019ea70e-c055-7359-bf7b-5580f7617ed0">
+<img src="https://img.shields.io/badge/Hack%20The%20Box-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />
+</a>
+
+<a href="https://manasi-0418.github.io/manasi-portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+</p>
 
 <div align="center">
 
-### 🔐 Learn • Build • Secure
+🔐 Learn. Break. Secure. Repeat.
+
+"Security is not a destination — it's a continuous process."
+
+⭐ If you find my work useful, consider giving a repository a star!
 
 </div>
