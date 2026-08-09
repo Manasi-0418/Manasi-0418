@@ -1,138 +1,154 @@
 <div align="center">
 
-# 👋 Hi, I'm Manasi Shewale
+MANASI-0418 // CYBER ID
 
-### 🛡️ Cybersecurity | ☁️ Cloud Security | 🔎 VAPT
+CYBERSECURITY • CLOUD SECURITY • VAPT
 
-<p>
-  <a href="https://github.com/Manasi-0418">
-    <img src="https://img.shields.io/github/followers/Manasi-0418?label=Followers&style=for-the-badge&logo=github">
-  </a>
-  <a href="https://github.com/Manasi-0418?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-6-181717?style=for-the-badge&logo=github">
-  </a>
-  <a href="https://github.com/Manasi-0418/cyber-writeups">
-    <img src="https://img.shields.io/badge/Cybersecurity-Writeups-00D9FF?style=for-the-badge&logo=hackthebox">
-  </a>
-</p>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast;Cloud+Security+Learner;VAPT+%7C+Ethical+Hacking+%7C+Digital+Forensics;Building+%26+Documenting+Security+Projects" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2600&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=IDENTITY+VERIFIED...;SECURITY+LAB+ONLINE;CLOUD+SECURITY+%7C+VAPT+%7C+FORENSICS;ACCESS+GRANTED+%E2%80%94+WELCOME+TO+MY+WORKSPACE" />
 
 </div>
 
----
+╔══════════════════════════════════════════════════════════════╗
+║                    DIGITAL SECURITY ID                      ║
+╠══════════════════════════════════════════════════════════════╣
+║  ID              MANASI-0418                                ║
+║  NAME            MANASI SHEWALE                             ║
+║  DOMAIN          CYBERSECURITY                              ║
+║  FOCUS           CLOUD SECURITY                             ║
+║  SPECIALTY       VAPT / DIGITAL FORENSICS                   ║
+║  STATUS          ● ACTIVE                                   ║
+║  EDUCATION       M.Sc. Cyber Security                       ║
+║                  B.Sc. Cyber & Digital Science — 9.36       ║
+╚══════════════════════════════════════════════════════════════╝
 
-## 🧠 About Me
+01 // SECURITY IDENTITY
 
-🎓 **M.Sc. Cyber Security Student**  
-🎓 **B.Sc. Cyber & Digital Science — CGPA 9.36**  
-☁️ Working toward a **Cloud Security Analyst** role  
-🔐 Hands-on interest in **VAPT, ethical hacking, digital forensics and security operations**  
-🧪 Practicing through **Hack The Box, CTFs and cybersecurity labs**  
-📚 I document what I learn through technical writeups and projects.
+I learn cybersecurity by building, testing, breaking and documenting.
 
----
+PRIMARY DOMAIN
+└── Cloud Security
 
-## 🛡️ Security Arsenal
+SECURITY INTERESTS
+├── Vulnerability Assessment & Penetration Testing
+├── Ethical Hacking
+├── Digital Forensics
+├── Security Operations
+└── Risk & Security Controls
+
+CURRENT MODE
+└── Learn → Lab → Investigate → Document → Improve
+
+02 // SECURITY ARSENAL
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,vscode,mysql,html,css,js" />
+<img src="https://img.shields.io/badge/Kali_Linux-0D1117?style=for-the-badge&logo=kalilinux&logoColor=00FF9C"/>
+<img src="https://img.shields.io/badge/Nmap-0D1117?style=for-the-badge&logoColor=00FF9C"/>
+<img src="https://img.shields.io/badge/Burp_Suite-0D1117?style=for-the-badge&logo=burpsuite&logoColor=FF6633"/>
+<img src="https://img.shields.io/badge/Wireshark-0D1117?style=for-the-badge&logo=wireshark&logoColor=4DA6FF"/>
+<img src="https://img.shields.io/badge/Metasploit-0D1117?style=for-the-badge&logoColor=00FF9C"/>
+<img src="https://img.shields.io/badge/Splunk-0D1117?style=for-the-badge&logo=splunk&logoColor=00FF9C"/>
 </p>
 
 <p align="center">
-
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-![Nessus](https://img.shields.io/badge/Nessus-00A88F?style=for-the-badge)
-
+<img src="https://skillicons.dev/icons?i=python,c,linux,bash,git,github,mysql,html,css,js,vscode" />
 </p>
 
----
+03 // OPERATIONS
 
-## 🚀 Featured Work
+OP-001 — DVWA VAPT
 
-| Project | Focus |
-|---|---|
-| 🔎 [VAPT Project](https://github.com/Manasi-0418/VAPT-Project) | Vulnerability Assessment & Penetration Testing using DVWA |
-| 🕵️ [Digital Forensics Toolkit](https://github.com/Manasi-0418/Digital-Forensics-Toolkit) | Digital forensics using Autopsy & FTK Imager |
-| 🎣 [Phishing Attack Simulation & Detection](https://github.com/Manasi-0418/Phishing-Attack-Simulation-and-Detection) | Phishing simulation and detection |
-| 📝 [Cyber Writeups](https://github.com/Manasi-0418/cyber-writeups) | Ethical hacking labs, HTB writeups & CTF practice |
+Objective: Web application vulnerability assessment and controlled exploitation.Kali Linux Nmap Burp Suite DVWA Apache MySQL→ ACCESS PROJECT
 
----
+OP-002 — Digital Forensics Toolkit
 
-## 🧪 Cybersecurity Practice
+Objective: Practical evidence collection and forensic investigation.Autopsy FTK Imager Recuva OSForensics→ ACCESS PROJECT
 
-### Hack The Box
+OP-003 — Phishing Simulation & Detection
 
-**Tier 0 completed:**
+Objective: Simulate phishing and develop detection logic.Python PHP HTML JavaScript→ ACCESS PROJECT
 
-`Meow` • `Fawn` • `Dancing` • `Sequel` • `Redeemer`
+04 // LAB RESULTS
 
-🔗 [View my HTB profile](https://profile.hackthebox.com/profile/019ea70e-c055-7359-bf7b-5580f7617ed0)
+HACK THE BOX // TIER 0
 
-### Writeups
+[✓] MEOW
+[✓] FAWN
+[✓] DANCING
+[✓] SEQUEL
+[✓] REDEEMER
 
-📂 [HTB Writeups](https://github.com/Manasi-0418/cyber-writeups/tree/main/htb-writeups)
+5 TARGETS COMPLETED
 
-📂 [Ethical Hacking Fundamentals](https://github.com/Manasi-0418/cyber-writeups/tree/main/labs/ethical-hacking-fundamentals)
+→ VIEW HTB WRITEUPS
 
-📂 [CTF Writeups](https://github.com/Manasi-0418/cyber-writeups/tree/main/ctf-writeups)
+SECURITY WRITEUPS
 
----
+→ ENTER CYBER WRITEUPS
 
-## 📜 Certifications & Training
+05 // EVIDENCE
 
-- 🏅 ISAC Certified Cyber Crime Intervention Officer (CCIO)
-- 🛡️ Cybercrime First Responder — CopConnect / ISAC Foundation
-- 💼 Tata Cybersecurity Analyst Job Simulation — Forage
-- 💻 Datacom Cybersecurity Job Simulation — Forage
-- 🔐 Cybersecurity / Cyber Ambassador training
+DIGITAL FORENSICS
+├── Evidence Handling
+├── File & Metadata Analysis
+├── Hash Analysis
+├── Data Recovery
+└── Investigation Workflows
 
----
+THREAT & SECURITY
+├── OSINT
+├── MITRE ATT&CK
+├── Threat Intelligence
+└── Security Monitoring
 
+06 // CURRENT MISSION
 
+╔══════════════════════════════════════════════════════╗
+║                  CURRENT MISSION                    ║
+╠══════════════════════════════════════════════════════╣
+║  ☁ CLOUD SECURITY                                    ║
+║  [01] IAM & Access Control                           ║
+║  [02] Cloud Security Fundamentals                   ║
+║  [03] Security Monitoring                           ║
+║  [04] Risk & Compliance                             ║
+║  [05] Secure Cloud Architecture                     ║
+║  STATUS: IN PROGRESS                                ║
+╚══════════════════════════════════════════════════════╝
 
-## 📊 GitHub Statistics
+07 // CREDENTIALS
+
+🛡️ ISAC Certified Cyber Crime Intervention Officer (CCIO)
+
+🚨 Cybercrime First Responder — CopConnect / ISAC Foundation
+
+💼 Tata Cybersecurity Analyst Job Simulation — Forage
+
+💻 Datacom Cybersecurity Job Simulation — Forage
+
+🔐 Cybersecurity / Cyber Ambassador Training
+
+08 // SYSTEM METRICS
 
 <div align="center">
 
-<img height="165" src="./profile/stats.svg" alt="GitHub Stats" />
-
+<img height="170" src="./profile/stats.svg" alt="GitHub Statistics" />
 
 </div>
 
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/manasi-shewale-863251296">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://profile.hackthebox.com/profile/019ea70e-c055-7359-bf7b-5580f7617ed0">
-<img src="https://img.shields.io/badge/Hack%20The%20Box-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />
-</a>
-
-<a href="https://manasi-0418.github.io/manasi-portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-
-</p>
-
----
+09 // NETWORK
 
 <div align="center">
 
-### 🔐 Learn. Break. Secure. Repeat.
+<a href="https://www.linkedin.com/in/manasi-shewale-863251296"><img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF9C"/></a><a href="https://profile.hackthebox.com/profile/019ea70e-c055-7359-bf7b-5580f7617ed0"><img src="https://img.shields.io/badge/HACK_THE_BOX-0D1117?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"/></a><a href="https://manasi-0418.github.io/manasi-portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=googlechrome&logoColor=00FF9C"/></a>
 
-*"Security is not a destination — it's a continuous process."*
+</div>
 
-⭐ If you find my work useful, consider giving a repository a star!
+<div align="center">
+
+ACCESS LEVEL : STUDENT → PROFESSIONAL
+SYSTEM       : ACTIVE
+MISSION      : BUILD • BREAK • ANALYZE • SECURE
+IDENTITY     : MANASI-0418
+
+ACCESS GRANTED // END OF TRANSMISSION
 
 </div>
